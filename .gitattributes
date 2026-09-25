@@ -1,0 +1,4 @@
+*.lua text eol=lf
+*.g   text eol=lf
+*.md  text eol=lf
+*.dds binary
